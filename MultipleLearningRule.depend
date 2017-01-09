@@ -1,0 +1,253 @@
+# depslib dependency file v1.0
+1481816354 source:/home/valkyrie/Game of Life/MultipleLearningRule/fonksiyonlar.cpp
+
+1481823464 source:/home/valkyrie/Game of Life/MultipleLearningRule/main.cpp
+	"imp.h"
+	<thread>
+
+1481816389 /home/valkyrie/Game of Life/MultipleLearningRule/fonksiyonlar.cpp
+
+1481817550 /home/valkyrie/Game of Life/MultipleLearningRule/fonksiyonlar.h
+	<GL/glut.h>
+
+1066736514 /usr/include/GL/glut.h
+	"freeglut_std.h"
+
+1413563304 /usr/include/GL/freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1481374950 /usr/include/EGL/egl.h
+	<EGL/eglplatform.h>
+	<KHR/khrplatform.h>
+	<EGL/eglplatform.h>
+
+1481374950 /usr/include/EGL/eglplatform.h
+	<KHR/khrplatform.h>
+	<windows.h>
+	<android/native_window.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<kernel/image.h>
+
+1481374950 /usr/include/KHR/khrplatform.h
+	<stdint.h>
+	<inttypes.h>
+	<stdint.h>
+
+1470482221 /usr/include/stdint.h
+	<features.h>
+	<bits/wchar.h>
+	<bits/wordsize.h>
+
+1470482212 /usr/include/features.h
+	<stdc-predef.h>
+	<sys/cdefs.h>
+	<gnu/stubs.h>
+
+1470482212 /usr/include/stdc-predef.h
+
+1470482225 /usr/include/sys/cdefs.h
+	<features.h>
+	<bits/wordsize.h>
+
+1470482221 /usr/include/bits/wordsize.h
+
+1470482212 /usr/include/gnu/stubs.h
+	<gnu/stubs-32.h>
+	<gnu/stubs-64.h>
+	<gnu/stubs-x32.h>
+
+1470508831 /usr/include/gnu/stubs-32.h
+
+1470482268 /usr/include/gnu/stubs-64.h
+
+1470482223 /usr/include/bits/wchar.h
+
+1470482221 /usr/include/inttypes.h
+	<features.h>
+	<stdint.h>
+	<stddef.h>
+
+1475645045 /usr/include/X11/Xlib.h
+	<sys/types.h>
+	<stdint.h>
+	<X11/X.h>
+	<X11/Xfuncproto.h>
+	<X11/Xosdefs.h>
+	<stddef.h>
+	<stdlib.h>
+
+1470482224 /usr/include/sys/types.h
+	<features.h>
+	<bits/types.h>
+	<time.h>
+	<stddef.h>
+	<endian.h>
+	<sys/select.h>
+	<sys/sysmacros.h>
+	<bits/pthreadtypes.h>
+
+1470482224 /usr/include/bits/types.h
+	<features.h>
+	<bits/wordsize.h>
+	<bits/typesizes.h>
+
+1470482224 /usr/include/bits/typesizes.h
+
+1470482223 /usr/include/time.h
+	<features.h>
+	<stddef.h>
+	<bits/time.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<xlocale.h>
+
+1470482223 /usr/include/bits/time.h
+	<bits/types.h>
+	<bits/types.h>
+	<bits/timex.h>
+
+1470482223 /usr/include/bits/timex.h
+	<bits/types.h>
+
+1470482213 /usr/include/xlocale.h
+
+1470482223 /usr/include/endian.h
+	<features.h>
+	<bits/endian.h>
+	<bits/byteswap.h>
+
+1470482223 /usr/include/bits/endian.h
+
+1470482223 /usr/include/bits/byteswap.h
+	<features.h>
+	<bits/types.h>
+	<bits/wordsize.h>
+	<bits/byteswap-16.h>
+
+1470482223 /usr/include/bits/byteswap-16.h
+
+1470482225 /usr/include/sys/select.h
+	<features.h>
+	<bits/types.h>
+	<bits/select.h>
+	<bits/sigset.h>
+	<time.h>
+	<bits/time.h>
+	<bits/select2.h>
+
+1470482225 /usr/include/bits/select.h
+	<bits/wordsize.h>
+
+1470482220 /usr/include/bits/sigset.h
+
+1470482225 /usr/include/bits/select2.h
+
+1470482224 /usr/include/sys/sysmacros.h
+	<features.h>
+
+1470482224 /usr/include/bits/pthreadtypes.h
+	<bits/wordsize.h>
+
+1474631804 /usr/include/X11/X.h
+	<X11/Xmd.h>
+
+1474631804 /usr/include/X11/Xmd.h
+	<sys/isa_defs.h>
+
+1474631804 /usr/include/X11/Xfuncproto.h
+
+1474631804 /usr/include/X11/Xosdefs.h
+
+1470482221 /usr/include/stdlib.h
+	<features.h>
+	<stddef.h>
+	<bits/waitflags.h>
+	<bits/waitstatus.h>
+	<xlocale.h>
+	<sys/types.h>
+	<alloca.h>
+	<bits/stdlib-bsearch.h>
+	<bits/stdlib-float.h>
+	<bits/stdlib.h>
+	<bits/stdlib-ldbl.h>
+
+1470482224 /usr/include/bits/waitflags.h
+
+1470482224 /usr/include/bits/waitstatus.h
+
+1470482221 /usr/include/alloca.h
+	<features.h>
+	<stddef.h>
+
+1470482221 /usr/include/bits/stdlib-bsearch.h
+
+1470482221 /usr/include/bits/stdlib-float.h
+
+1470482221 /usr/include/bits/stdlib.h
+
+1470482221 /usr/include/bits/stdlib-ldbl.h
+
+1475645045 /usr/include/X11/Xutil.h
+	<X11/Xlib.h>
+	<X11/keysym.h>
+
+1474631804 /usr/include/X11/keysym.h
+	<X11/keysymdef.h>
+
+1474631804 /usr/include/X11/keysymdef.h
+
+1481374950 /usr/include/GLES/gl.h
+	<GLES/glplatform.h>
+
+1481374950 /usr/include/GLES/glplatform.h
+	<KHR/khrplatform.h>
+
+1481374950 /usr/include/GLES2/gl2.h
+	<GLES2/gl2platform.h>
+	<KHR/khrplatform.h>
+
+1481374950 /usr/include/GLES2/gl2platform.h
+	<KHR/khrplatform.h>
+
+1481374950 /usr/include/GL/gl.h
+	"gl_mangle.h"
+	<windows.h>
+	<GL/glext.h>
+
+1481374950 /usr/include/GL/gl_mangle.h
+
+1481374950 /usr/include/GL/glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1449371112 /usr/include/GL/glu.h
+	"glu_mangle.h"
+	<GL/gl.h>
+
+1449371112 /usr/include/GL/glu_mangle.h
+
+1483803369 /home/valkyrie/Game of Life/MultipleLearningRule/imp.h
+	<GL/glut.h>
+	<iostream>
+	<vector>
+	<sstream>
+	<time.h>
+
